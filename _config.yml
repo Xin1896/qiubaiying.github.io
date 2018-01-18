@@ -1,6 +1,6 @@
 # Site settings
 title: CJ Blog
-SEOTitle: 陈靖的博客 | BY Blog
+SEOTitle: 陈靖的博客 | CJ Blog
 header-img: http://p2a571br7.bkt.clouddn.com/IMG_0021.JPG
 email: chenjingtt5@gmail.com
 description: "Every failure is leading towards success."
@@ -12,7 +12,7 @@ github_repo: "https://github.com/xin1896/xin1896.github.io.git" # you code repos
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /http://p2a571br7.bkt.clouddn.com/IMG_0021.JPG # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
